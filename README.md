@@ -14,6 +14,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Clone project
 
+Paste this into the terminal.
+
 ### `git clone https://github.com/jadhavgaurav/Algorithm-Visualizer`
 
 ## Available Scripts
